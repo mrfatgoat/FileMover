@@ -1,0 +1,20 @@
+﻿{
+  "Folders": {
+    "Flash": "Flash",
+    "Pictures": "Pictures",
+    "SVG": "Pictures/svg",
+    "Video": "Video"
+  },
+  "Destinations": {
+    "jpg": "Folders:Pictures",
+    "png": "Folders:Pictures",
+    "gif": "Folders:Pictures",
+    "swf": "Folders:Flash",
+    "svg": "Folders:SVG",
+    "avi": "Folders:Video",
+    "mp4": "Folders:Video",
+    "flv": "Folders:Video",
+    "mpeg": "Folders:Video",
+    "mov": "Folders:Video"
+  }
+}

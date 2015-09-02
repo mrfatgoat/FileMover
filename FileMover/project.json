@@ -1,0 +1,22 @@
+﻿{
+  "version": "1.0.0-*",
+  "description": "FileMover Console Application",
+  "authors": [ "MR_FAT_GOAT" ],
+  "tags": [ "" ],
+  "projectUrl": "",
+  "licenseUrl": "",
+
+  "dependencies": {
+    "Microsoft.Framework.Configuration": "0.1-*",
+    "Microsoft.Framework.Configuration.Json": "0.1-*",
+    "Newtonsoft.Json": "7.0.1"
+  },
+
+  "commands": {
+    "FileMover": "FileMover"
+  },
+
+  "frameworks": {
+    "dnx46": { }
+  }
+}
